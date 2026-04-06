@@ -1,2 +1,2 @@
 # agency-talent-hub
-This project is early-stage and welcomes contributors.” “Looking for help in: auth flow, application upload, cashfree payments collection, tests.”
+Open-source Agency Talent Hub for contract hiring, achievements, talent applications (video/CV), boost plans, and paid feedback with Supabase + Cashfree integration (WIP).
